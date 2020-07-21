@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/drawable_ic_dashboard.xml.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/drawable/ic_dashboard.xml"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/drawable_ic_home_black_24dp.xml.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/drawable_ic_settings.xml.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/layout_fragment_settings.xml.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/drawable_bottom_nav_item_background.xml.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/drawable/bottom_nav_item_background.xml"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/drawable_ic_brightness_2.xml.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/drawable/ic_brightness_2.xml"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/layout_fragment_preferences.xml.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/layout/fragment_preferences.xml"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/drawable_ic_brightness.xml.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/drawable/ic_brightness.xml"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/drawable_ic_more_vert.xml.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/drawable/ic_more_vert.xml"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/navigation_mobile_navigation.xml.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/menu_bottom_nav_menu.xml.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]
