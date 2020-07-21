@@ -1,4 +1,4 @@
-package com.d10s3.daynightthemedemo.ui.dashboard
+package com.d10s3.daynightthemedemo.ui.preferences
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

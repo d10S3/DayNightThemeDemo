@@ -1,4 +1,4 @@
-package com.d10s3.daynightthemedemo.ui.notifications
+package com.d10s3.daynightthemedemo.ui.settings
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

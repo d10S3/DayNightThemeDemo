@@ -1,4 +1,4 @@
-package com.d10s3.daynightthemedemo.ui.notifications
+package com.d10s3.daynightthemedemo.ui.settings
 
 import android.os.Bundle
 import android.view.LayoutInflater

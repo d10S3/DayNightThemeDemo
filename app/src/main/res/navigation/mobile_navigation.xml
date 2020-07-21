@@ -13,13 +13,13 @@
 
     <fragment
         android:id="@+id/navigation_preferences"
-        android:name="com.d10s3.daynightthemedemo.ui.dashboard.PreferencesFragment"
+        android:name="com.d10s3.daynightthemedemo.ui.preferences.PreferencesFragment"
         android:label="@string/title_preferences"
         tools:layout="@layout/fragment_preferences" />
 
     <fragment
         android:id="@+id/navigation_settings"
-        android:name="com.d10s3.daynightthemedemo.ui.notifications.SettingsFragment"
+        android:name="com.d10s3.daynightthemedemo.ui.settings.SettingsFragment"
         android:label="@string/title_settings"
         tools:layout="@layout/fragment_settings" />
 </navigation>
