@@ -93,7 +93,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/owne
 	android:allowBackup
 		ADDED from /Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/AndroidManifest.xml:11:9-44
 activity#com.d10s3.daynightthemedemo.MainActivity
 ADDED from /Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/AndroidManifest.xml:12:9-20:20
 	android:label

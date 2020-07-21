@@ -27,8 +27,8 @@
 19        android:supportsRtl="true"
 19-->/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/AndroidManifest.xml:10:9-35
 20        android:testOnly="true"
-21        android:theme="@style/AppTheme" >
-21-->/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/AndroidManifest.xml:11:9-40
+21        android:theme="@style/DarkThemeApp" >
+21-->/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/AndroidManifest.xml:11:9-44
 22        <activity
 22-->/Users/owner/AndroidStudioProjects/DayNightThemeDemo/app/src/main/AndroidManifest.xml:12:9-20:20
 23            android:name="com.d10s3.daynightthemedemo.MainActivity"
